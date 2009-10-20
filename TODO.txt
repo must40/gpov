@@ -4,7 +4,7 @@
 #zapisz jako, nowy plik *.pov
 #help
 #miniaturka w edycji
-#obiekty(kula,swiatlo,stozek,lathe,sor,prism)
+#obiekty(sphere,light,cone,torus,lathe,sor,prism)
 #wstawianie obiektow w miejscu kursora
 #autozapis
 #Opisanie plikow i funkcji
